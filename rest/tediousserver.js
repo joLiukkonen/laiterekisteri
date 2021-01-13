@@ -20,8 +20,8 @@ app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 const config = {
   authentication: {
     options: {
-      userName: "boss", // update me
-      password: "laitteet20!" // update me
+      userName: "", // update me
+      password: "" // update me
     },
     type: "default"
   },
