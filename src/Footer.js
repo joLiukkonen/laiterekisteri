@@ -5,7 +5,7 @@ class Footer extends Component {
     render(){
         return(
             <div>
-                <p> © Devices Inc. Laiterekisteri 2020</p>
+                <p>Laiterekisteri 2020</p>
             </div>
         )
     }
