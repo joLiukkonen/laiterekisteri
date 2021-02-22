@@ -5,7 +5,7 @@ class Footer extends Component {
     render(){
         return(
             <div>
-                <p>Laiterekisteri 2020</p>
+                <p>Joonas Liukkonen & Tuomas Kauhanen, 2020</p>
             </div>
         )
     }
